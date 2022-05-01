@@ -1,6 +1,8 @@
 # Book Management System (BMS)
 
-This is BMS with user-admin paradigm with respective functionality access.
+This is **BMS server** with user-admin paradigm with respective functionality access.
+
+For frontend : please visit [BMS-CLIENT](https://github.com/sky-dtu/bms-client/)
 
 ## Clone
 
